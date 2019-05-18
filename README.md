@@ -1,5 +1,5 @@
 # RedditRadio
-> Lay back and listen to your favourite subreddit.
+> Lay back and listen to your favorite subreddit.
 
 ## Usage
 > To use it, simply run:
